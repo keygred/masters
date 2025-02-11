@@ -1,31 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>文件获取示例</title>
 </head>
 
 <body>
+    <button id="getFileButton">获取文件</button>
+    <div id="fileContent"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        // 定义一个函数来获取文件内容
-        async function fetchFile(url) {
-            try {
-                let response = await fetch(url);
-                if (!response.ok) {
-                    throw new Error('网络响应不是预期的');
-                }
-                let data = await response.text();
-                return console.log((`${data}`));
-            } catch (error) {
-                console.error(`获取文件时出错: ${error}`);
-            }
-        }
-
-        // 自动访问每个链接
-        fetchFile('./look/index.m3u');
-
+        $(document).ready(function () {
+            $('#getFileButton').click(function () {
+                $.ajax({
+                    url: 'your-server-endpoint/getfile', // 替换为你的服务器端API地址
+                    type: 'GET',
+                    success: function (data) {
+                        $('#fileContent').text(data);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log('Error: ' + error);
+                        $('#fileContent').text('文件获取失败: ' + error);
+                    }
+                });
+            });
+        });
     </script>
 </body>
 
