@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        // 定义一个函数来获取文件内容
+        async function fetchFile(url) {
+            try {
+                let response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error('网络响应不是预期的');
+                }
+                let data = await response.text();
+                return (`${data}`);
+            } catch (error) {
+                console.error(`获取文件时出错: ${error}`);
+            }
+        }
+
+        // 自动访问每个链接
+        fetchFile('/look/index.m3u');
+
+    </script>
+</body>
+
+</html>
