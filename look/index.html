@@ -17,14 +17,14 @@
                     throw new Error('网络响应不是预期的');
                 }
                 let data = await response.text();
-                return (`${data}`);
+                return console.log((`${data}`));
             } catch (error) {
                 console.error(`获取文件时出错: ${error}`);
             }
         }
 
         // 自动访问每个链接
-        fetchFile('/look/index.m3u');
+        fetchFile('./look/index.m3u');
 
     </script>
 </body>
