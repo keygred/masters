@@ -1,0 +1,105 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="fcsH354nAoLb_hGI1odh">
+    <mxGraphModel dx="829" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-3" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="项目经理&lt;div&gt;何庆伟&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-19" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" target="qS-v8GeKOm_KxgR_Gsvi-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="390" />
+              <mxPoint x="545" y="390" />
+            </Array>
+            <mxPoint x="95" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="施工员&lt;div&gt;查文科&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="75" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-20" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="施工员&lt;div&gt;杨崇宪&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="125" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-25" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="资料员&lt;div&gt;郭娟&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="375" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-21" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195.1379310344828" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="水电管理员&lt;div&gt;莫焦&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="175" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-27" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="质量员&lt;div&gt;叶斯静&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="475" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-22" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="安全员&lt;div&gt;舒永红&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="225" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="实测专员&lt;div&gt;王亚成&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="525" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-28" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="&lt;div&gt;技术负责人&lt;/div&gt;&lt;div&gt;范辉&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="280" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-23" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="材料员&lt;div&gt;彭秀娜&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="275" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-24" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="仓管员&lt;div&gt;陈强&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="325" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-26" edge="1" parent="1" source="qS-v8GeKOm_KxgR_Gsvi-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qS-v8GeKOm_KxgR_Gsvi-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" value="造价员&lt;div&gt;刘东&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="40" x="425" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
